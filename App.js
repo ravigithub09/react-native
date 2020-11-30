@@ -5,7 +5,7 @@ import SignupForm from './component/signup-form';
 
 export default function App() {
   return (
-    //< LoginForm />
+    //<LoginForm />
     <SignupForm />
   )
 }

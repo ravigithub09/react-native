@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
 
     },
     buttonSection: {
-        width: '75%',
+        width: 300,
         height: '25%',
         justifyContent: 'space-evenly',
     },

@@ -69,12 +69,13 @@ const styles = StyleSheet.create({
     },
 
     signupButtonSection: {
-        width: '75%',
+        width: 300,
         height: '25%',
         justifyContent: "flex-start",
+        marginTop: 10,
     },
     resetButtonSection: {
-        width: '75%',
+        width: 300,
         marginTop: -150,
     },
 
